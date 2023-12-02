@@ -1,6 +1,6 @@
 import React from 'react';
 import { RiHomeLine } from "react-icons/ri";
-import { MdDiversity1, MdOutlineHotel } from "react-icons/md";
+import { MdOutlineHotel } from "react-icons/md";
 import { PiBagSimpleThin } from "react-icons/pi";
 
 
