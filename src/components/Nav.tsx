@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import { RiHomeLine } from "react-icons/ri";
 import { MdOutlineHotel } from "react-icons/md";
 import { PiBagSimpleThin } from "react-icons/pi";
