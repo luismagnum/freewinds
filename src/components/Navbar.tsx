@@ -191,7 +191,7 @@ export const Navbar:React.FC = () => {
             </div>
         </div>
         <div className={`${menu ? "translate-x-0" : "-translate-x-full"} lg:hidden flex flex-col absolute bg-white text-black left-0 top-20 font-semibold text-3xl  pt-8 pb-4 gap-6 w-full h-fit transition-transform duration-300`}>
-                <button className='text-sm m-auto px-4 py-2 border-2 border-black bg-black text-white transition-all rounded-full'>
+                <button className='text-sm mx-auto px-16 py-2 border-2 border-black bg-black text-white transition-all rounded-full'>
                   Iniciar sesion
                 </button>
             <Link

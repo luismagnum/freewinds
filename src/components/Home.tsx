@@ -11,7 +11,7 @@ export const Home:React.FC = () => {
            
         </p>
         <div className='lg:pl-44'>
-           <button className='border-2 border-black bg-black p-2 rounded-full text-white font-bold'>
+           <button className='border-2  bg-white p-2 rounded-full text-black font-bold'>
              <a href="#">Ver los ganadores</a>
            </button>
        </div>
