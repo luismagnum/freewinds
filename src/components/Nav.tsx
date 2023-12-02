@@ -26,10 +26,10 @@ export const Nav:React.FC = () => {
            <br></br>
            <div>
             <input className='flex items-center pl-3 bg-gray-300 rounded-3xl border-2 p-4 px-4 mb-2 mx-auto w-9/12' type="text" placeholder="🔍 Lugares para visitar, cosas para hacer,hoteles..." />
-           </div>
-           <button className='flex items-center justify-center mx-auto px-32 py-2 border-2 border-teal-500 bg-teal-500 text-white transition-all rounded-full'>
+            <button className='flex items-center justify-center mx-auto px-32 py-2 border-2 border-teal-500 bg-teal-500 text-white transition-all rounded-full'>
                 buscar
-           </button>
+            </button>
+            </div>
        </div>
       </div>
   )
