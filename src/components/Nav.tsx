@@ -10,7 +10,7 @@ export const Nav:React.FC = () => {
         <h1 className= 'text-center items-center text-black m-10 font-bold text-4xl'>¿Adonde?</h1>
         <div className='text-center items-center justify-center'>
            <button className='flex text-center items-center justify-center m-auto hover:underline p-2 rounded-full text-black font-bold gap-4'>
-             <span className='flex text-center items-center justify-center gap-1 gap-2'>
+             <span className='sm:gap-1 flex text-center items-center justify-center md:gap-1 lg:gap-2'>
              <RiHomeLine className='mt-.5' />
              <a href="#">Buscar todo</a>
              </span>
